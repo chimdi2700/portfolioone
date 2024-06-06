@@ -414,13 +414,13 @@ const Main = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-web">
               <div className="portfolio-wrap">
                 <img
-                  src="assets/img/portfolio/10.png"
+                  src="assets/img/10.png"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="portfolio-links">
                   <a
-                    href="assets/img/portfolio/10.png"
+                    href="assets/img/10.png"
                     data-gallery="portfolioGallery"
                     className="portfolio-lightbox"
                     title="App 1"
@@ -436,13 +436,13 @@ const Main = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-web">
               <div className="portfolio-wrap">
                 <img
-                  src="assets/img/portfolio/11.png"
+                  src="assets/img/11.png"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="portfolio-links">
                   <a
-                    href="assets/img/portfolio/11.png"
+                    href="assets/img/11.png"
                     data-gallery="portfolioGallery"
                     className="portfolio-lightbox"
                     title="Web 3"
@@ -458,13 +458,13 @@ const Main = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-app">
               <div className="portfolio-wrap">
                 <img
-                  src="assets/img/portfolio/13.png"
+                  src="assets/img/13.png"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="portfolio-links">
                   <a
-                    href="assets/img/portfolio/13.png"
+                    href="assets/img/13.png"
                     data-gallery="portfolioGallery"
                     className="portfolio-lightbox"
                     title="App 2"
@@ -480,13 +480,13 @@ const Main = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-web">
               <div className="portfolio-wrap">
                 <img
-                  src="assets/img/portfolio/17.png"
+                  src="assets/img/17.png"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="portfolio-links">
                   <a
-                    href="assets/img/portfolio/17.png"
+                    href="assets/img/17.png"
                     data-gallery="portfolioGallery"
                     className="portfolio-lightbox"
                     title="Card 2"
@@ -502,13 +502,13 @@ const Main = () => {
             <div className="col-lg-4 col-md-6 portfolio-item filter-web">
               <div className="portfolio-wrap">
                 <img
-                  src="assets/img/portfolio/20.png"
+                  src="assets/img/20.png"
                   className="img-fluid"
                   alt=""
                 />
                 <div className="portfolio-links">
                   <a
-                    href="assets/img/portfolio/20.png"
+                    href="assets/img/20.png"
                     data-gallery="portfolioGallery"
                     className="portfolio-lightbox"
                     title="Web 2"
