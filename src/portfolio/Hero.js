@@ -5,10 +5,10 @@ import { useTypewriter, cursor } from 'react-simple-typewriter'
 const Hero = () => {
 
   const [typeEffect] = useTypewriter({
-    words: ['Front-end Developer', 'Back-end Developer', 'Freelancer'],
+    words: ['Front-End Developer', 'Back-End Developer', 'Freelancer'],
     loop:{},
-    typeSpeed: 100,
-    delaySpeed: 40
+    typeSpeed: 200,
+    delaySpeed: 100
   });
   return (
     <section
@@ -17,9 +17,9 @@ const Hero = () => {
 >
   <div className="hero-container" data-aos="fade-in">
     <h1>Uyor Chimdi Ebulu</h1>
-    <p style={{fontWeight: 'bold'}}>
-      I'm{" "}
-      <span style={{fontWeight: 'bold'}}>{typeEffect}</span>
+    <p style={{fontWeight: ''}}>
+      I'm a{" "}
+      <span style={{fontWeight: ''}}>{typeEffect}</span>
     </p>
   </div>
 </section>
