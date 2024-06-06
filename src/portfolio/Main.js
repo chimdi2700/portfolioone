@@ -16,7 +16,7 @@ const Main = () => {
           <div className="row">
             <div className="col-lg-4" data-aos="fade-right">
               <img
-                src="assets/img/IMG-20240201-WA0091.jpg"
+                src="assets/img/IMG-20240201-WA0089.jpg"
                 className="img-fluid"
                 alt=""
               />
